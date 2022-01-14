@@ -1,5 +1,5 @@
 # **Diagnosing Pneumonia using AI: A Convolution Neural Network Model from Chest X-Ray Images**
-by Nadir Sarigul
+
 
 ## **I. Overview and Goals**
 
